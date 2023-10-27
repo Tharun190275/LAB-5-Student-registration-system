@@ -45,6 +45,10 @@ c. Better Service
 
 ![PackageDiagram1 STU ENROLL](https://github.com/22008686/LAB-5-Student-registration-system/assets/118916413/cec38a45-0ceb-4a14-a2f3-421e43fea09e)
 
+## STATE DIAGRAM:
+
+![STATE STUDENT ENROLL](https://github.com/22008686/LAB-5-Student-registration-system/assets/118916413/ce91245c-c91d-42a3-bfb3-8f321fcc384f)
+
 ### RESULT:
 
 Thus the Student information system project was executed and the output was
